@@ -172,7 +172,7 @@ ul {
     ),
     url(/Images/hero-section-background.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 80% center;
   background-size: contain;
 }
 
