@@ -117,7 +117,7 @@ ul {
 
 .header-link:hover {
   color: var(--color-brand-light);
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: 700;
 }
 
@@ -449,7 +449,7 @@ ul {
 
 .footer-link:hover {
   color: var(--color-brand-light);
-  text-decoration: underline;
+  text-decoration: none;
   font-size: 16px;
   line-height: 1.1;
 }
